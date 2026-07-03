@@ -1,0 +1,17 @@
+﻿# Sensitive business data - never commit
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+*.db-wal
+*.db-shm
+*.csv
+*.xlsx
+*.xls
+*.parquet
+.env
+
+# Python cache and local secrets
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
