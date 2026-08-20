@@ -35,7 +35,7 @@ $env:OMS_SQLITE_PATH="D:\Code\xhkp\202321101019\任务五\oms_sales_data.sqlite"
 本项目提供 `requirements.txt`，但不会自动执行安装。
 
 ```powershell
-pip install -r .\动销预测\requirements.txt
+pip install -r .\requirements.txt
 ```
 
 ## 运行应用
@@ -43,7 +43,7 @@ pip install -r .\动销预测\requirements.txt
 在项目根目录运行：
 
 ```powershell
-streamlit run .\动销预测\app.py
+python -m streamlit run app.py
 ```
 
 ## 三种预测粒度
@@ -129,6 +129,62 @@ docs/可测性与预测策略说明.md
 ## 数据安全
 
 数据库包含重要业务数据，不得提交到 Git 或推送到远端仓库。应用只使用只读 SQLite 连接，并开启 `PRAGMA query_only = ON`。页面和脚本不输出客户名称，也不展示原始交易明细数据。
+
+## V2.1 智能分析助手
+
+根目录 `app.py` 的“智能分析助手”页签提供规则驱动分析能力。助手会复用左侧 sidebar 当前选择的预测层级、渠道大类、渠道细分类、型号、预测步长、回测窗口和数据库路径，不要求用户重复填写筛选条件。
+
+助手会先检查用户问题中的对象关键词。如果问题写“线下”但左侧筛选为“线上”，默认不会执行预测工具，而是提示用户调整筛选条件。用户也可以主动打开“允许问题中的渠道条件覆盖当前筛选”，让问题中的“线上/线下”覆盖当前 context。
+
+## V2.2 LLM 增强解释模式
+
+V2.2 在 V2.1 规则驱动 Agent 之上增加“LLM 增强解释”模式。LLM 只用于业务解释与报告表达，不直接预测、不直接读取 SQLite、不直接生成数值事实。
+
+LLM 的职责边界：
+
+* 可以基于本地工具输出解释趋势、模型选择、风险和后续追问；
+* 不能生成 fact pack 中不存在的预测值、月份、百分比、金额、模型名称或可测性分数；
+* 不能声称保证准确率；
+* 不能要求用户上传客户明细、数据库文件或原始交易数据；
+* LLM 输出必须通过事实一致性校验，否则页面自动回退到 V2.1 规则驱动结果。
+
+### 环境变量配置
+
+默认情况下无需配置 LLM，系统使用规则驱动模式：
+
+```powershell
+$env:LLM_MODE="rule"
+```
+
+如需启用 LLM 增强解释，设置：
+
+```powershell
+$env:LLM_MODE="llm"
+$env:LLM_API_KEY="不要提交真实 Key"
+$env:LLM_BASE_URL="https://your-openai-compatible-endpoint/v1"
+$env:LLM_MODEL="your-model-name"
+$env:LLM_TIMEOUT_SECONDS="20"
+```
+
+也可以参考根目录 `.env.example` 管理本地配置；运行应用前需要把变量加载到当前 Shell 环境中。不要提交 `.env`。`.gitignore` 已忽略 `.env` 和 `.env.*`，只允许提交 `.env.example`。
+
+### 为什么不能提交 API Key
+
+API Key 属于个人或组织密钥，提交到仓库会造成费用、数据和权限风险。代码、日志、README、测试和 `.env.example` 都不能包含真实 Key。
+
+### 为什么 LLM 不能直接预测
+
+本项目的预测值、模型选择、回测误差和可测性结论必须来自本地工具和历史数据分析。LLM 不是预测引擎，只负责把已经计算好的事实组织成更易读的业务解释。
+
+### 无 API Key 时如何使用
+
+不设置 LLM 相关环境变量即可。页面选择“规则驱动分析（V2.1）”会完全使用本地规则驱动 Agent；即使选择“LLM 增强解释（V2.2）”，当配置缺失或调用失败时也会自动回退到规则驱动分析。
+
+详细设计见：
+
+```text
+docs/LLM_集成说明.md
+```
 
 ## 当前局限
 

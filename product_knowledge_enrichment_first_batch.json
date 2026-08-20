@@ -1,0 +1,306 @@
+[
+  {
+    "model": "EWH-6B2",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith EWH-6B2 6L 储水式电热水器",
+    "specifications": {
+      "容积": "6升",
+      "能效等级": "二级能效",
+      "加热功率": "2000瓦特",
+      "额定电压": "220伏特",
+      "防水等级": "IPX4",
+      "适用水压范围": "0.08-0.6兆帕",
+      "产品尺寸": "300*243*304毫米",
+      "净重": "5.6千克"
+    },
+    "features": [
+      "储水式电热水器",
+      "金圭内胆",
+      "整胆加热",
+      "支持水温调节"
+    ],
+    "description": "A.O. Smith EWH-6B2 是一款 6L 小容量储水式电热水器，采用 2000W 电热管加热。",
+    "sources": [
+      {
+        "title": "AO史密斯电热水器EWH-6B2 参数",
+        "url": "https://www.suning.com/itemcanshu/0000000000/000000000102358952.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "E60VC0-B",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith E60VC0-B 60L 储水式电热水器",
+    "specifications": {
+      "容积": "60升",
+      "适用人数": "2-3人",
+      "能效等级": "一级能效",
+      "加热功率": "3000瓦特",
+      "内胆材质": "金圭内胆",
+      "额定电压": "220伏特",
+      "防水等级": "IPX4",
+      "产品尺寸": "693*463*463毫米",
+      "净重": "25千克",
+      "适用水压范围": "0.015-0.8兆帕"
+    },
+    "features": [
+      "储水式电热水器",
+      "紧凑小尺寸",
+      "触控式控制",
+      "支持水温调节"
+    ],
+    "description": "A.O. Smith E60VC0-B 是一款 60L 壁挂式储水电热水器，采用金圭内胆和 3000W 加热配置。",
+    "sources": [
+      {
+        "title": "AO史密斯60升电热水器 E60VC0-B",
+        "url": "https://product.suning.com/0070220871/12120366654.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "R400MTD1",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith R400MTD1 反渗透净水机",
+    "specifications": {
+      "分类": "净水机",
+      "安装方式": "厨下式",
+      "应用场景": "厨房",
+      "是否需要电源": "是",
+      "RO逆渗透膜": "支持",
+      "滤芯报警装置": "支持",
+      "净重": "10千克"
+    },
+    "features": [
+      "反渗透净水机",
+      "厨下式安装",
+      "支持滤芯报警",
+      "支持 RO 反渗透"
+    ],
+    "description": "A.O. Smith R400MTD1 是一款面向厨房场景的厨下式反渗透净水机。",
+    "sources": [
+      {
+        "title": "史密斯R400MTD1型反渗透净水机",
+        "url": "https://www.suning.com/item/0000000000/12358344110.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "PF25C1",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith PF25C1 前置过滤器",
+    "specifications": {
+      "分类": "前置过滤器",
+      "安装方式": "中央式",
+      "额定净水量": "4500升",
+      "外形尺寸": "180*92*60毫米",
+      "净重": "0.7千克",
+      "是否需要电源": "否",
+      "过滤精度": "100微米"
+    },
+    "features": [
+      "前置过滤器",
+      "直冲式设计",
+      "316L 不锈钢",
+      "无需电源"
+    ],
+    "description": "A.O. Smith PF25C1 是一款前置过滤器，采用直冲式设计，可用于入户水路的前置过滤。",
+    "sources": [
+      {
+        "title": "史密斯(A.O.SMITH)牌PF25C1型前置过滤器",
+        "url": "https://product.suning.com/0000000000/000000010809003026.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "R1700FWi",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith R1700FWi 反渗透净水机",
+    "specifications": {
+      "分类": "纯水机",
+      "安装方式": "厨下式",
+      "出水量": "600加仑",
+      "回收率/废水比": "1.5:1",
+      "额定净水量": "6300升",
+      "外形尺寸": "415*140*430毫米",
+      "净重": "12.5千克",
+      "是否直饮": "是",
+      "反渗透功能": "支持"
+    },
+    "features": [
+      "厨下式纯水机",
+      "支持反渗透过滤",
+      "支持滤芯报警",
+      "可用于厨房直饮场景"
+    ],
+    "description": "A.O. Smith R1700FWi 是一款厨下式反渗透纯水机，支持直饮和滤芯报警。",
+    "sources": [
+      {
+        "title": "史密斯 R1700FWi 型反渗透净水机参数页",
+        "url": "https://m.suning.com/product/0010357584/12413471907.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "E60VC0",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith E60VC0 60L 储水式电热水器",
+    "specifications": {
+      "容积": "60升",
+      "能效等级": "一级能效",
+      "加热功率": "3000瓦特",
+      "热水器类型": "储水式电热水器",
+      "内胆材质": "金圭内胆"
+    },
+    "features": [
+      "储水式电热水器",
+      "60L 容量",
+      "一级能效",
+      "金圭内胆"
+    ],
+    "description": "A.O. Smith E60VC0 是一款 60L 储水式电热水器，采用 3000W 加热配置和金圭内胆。",
+    "sources": [
+      {
+        "title": "AO史密斯60升电热水器 E60VC0",
+        "url": "https://www.suning.com/item/0000000000/000000012205229450.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "CTE-60HT1",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith 佳尼特 CTE-60HT1 60L 储水式电热水器",
+    "specifications": {
+      "容积": "60升",
+      "适用人数": "3-4人",
+      "能效等级": "一级能效",
+      "加热功率": "3000瓦特",
+      "内胆材质": "金圭内胆",
+      "额定电压": "220伏特",
+      "防水等级": "IPX4",
+      "产品尺寸": "710*555*330毫米",
+      "净重": "28千克"
+    },
+    "features": [
+      "储水式电热水器",
+      "超薄型设计",
+      "多功率加热",
+      "支持预约"
+    ],
+    "description": "CTE-60HT1 是 A.O. Smith 佳尼特系列的一款 60L 超薄型储水式电热水器。",
+    "sources": [
+      {
+        "title": "AO史密斯佳尼特 60升电热水器 CTE-60HT1",
+        "url": "https://www.suning.com/item/0010358117/000000012389111647.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "E80VC0",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith E80VC0 80L 储水式电热水器",
+    "specifications": {
+      "容积": "80升",
+      "适用人数": "3-4人",
+      "能效等级": "一级能效",
+      "加热功率": "3000瓦特",
+      "内胆材质": "金圭内胆",
+      "额定电压": "220伏特",
+      "防水等级": "IPX4",
+      "产品尺寸": "862*463*463毫米",
+      "净重": "25千克",
+      "适用水压范围": "0.015-0.8兆帕"
+    },
+    "features": [
+      "储水式电热水器",
+      "80L 容量",
+      "速热",
+      "支持预约"
+    ],
+    "description": "A.O. Smith E80VC0 是一款 80L 储水式电热水器，适合 3-4 人使用。",
+    "sources": [
+      {
+        "title": "AO史密斯80升电热水器 E80VC0",
+        "url": "https://www.suning.com/item/0010358251/000000012205229461.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "CXW-350-Q2CWi",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith CXW-350-Q2CWi 顶侧双吸油烟机",
+    "specifications": {
+      "产品类型": "油烟机",
+      "款式": "顶侧双吸",
+      "能效等级": "一级能效",
+      "排风量": "20m3/min",
+      "最大静压": "1000帕",
+      "控制方式": "触摸控制",
+      "烟机面板材质": "不锈钢",
+      "外形尺寸": "895*355*945毫米",
+      "重量": "31千克"
+    },
+    "features": [
+      "顶侧双吸",
+      "触摸控制",
+      "支持照明",
+      "一级能效"
+    ],
+    "description": "A.O. Smith CXW-350-Q2CWi 是一款顶侧双吸式油烟机。",
+    "sources": [
+      {
+        "title": "A.O.史密斯油烟机CXW-350-Q2CWi",
+        "url": "https://product.suning.com/0000000000/000000012410303938.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "JSQ31-TM5",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith JSQ31-TM5 16L 燃气热水器",
+    "specifications": {
+      "热水器类型": "燃气热水器",
+      "热水产率": "16升/分钟",
+      "能效等级": "二级能效",
+      "气源": "天然气(12T)",
+      "燃热类别": "水气双调",
+      "控制方式": "触控式",
+      "排气方式": "强排式",
+      "换热器材质": "不锈钢",
+      "产品尺寸": "350*550*162毫米",
+      "净重": "13千克"
+    },
+    "features": [
+      "16L 燃气热水器",
+      "不锈钢换热器",
+      "支持恒温",
+      "CO 报警与 CO 防护"
+    ],
+    "description": "A.O. Smith JSQ31-TM5 是一款 16L 天然气燃气热水器，采用不锈钢换热器并支持恒温控制。",
+    "sources": [
+      {
+        "title": "AO史密斯 16升燃气热水器 JSQ31-TM5",
+        "url": "https://product.suning.com/0070220871/12312755203.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  }
+]

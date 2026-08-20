@@ -1,0 +1,40 @@
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#38BDF8"
+backgroundColor = "#080D14"
+secondaryBackgroundColor = "#0D1622"
+textColor = "#F1F5F9"
+linkColor = "#38BDF8"
+codeBackgroundColor = "#09131E"
+redColor = "#F87171"
+orangeColor = "#FBBF24"
+yellowColor = "#FBBF24"
+blueColor = "#38BDF8"
+greenColor = "#34D399"
+violetColor = "#7C8CFF"
+font = "sans-serif"
+baseFontSize = 15
+baseFontWeight = 400
+headingFontSizes = ["2rem", "1.5rem", "1.25rem", "1rem", "0.9rem", "0.8rem"]
+headingFontWeights = [650, 620, 600, 600, 600, 600]
+baseRadius = "10px"
+buttonRadius = "10px"
+showWidgetBorder = true
+showSidebarBorder = true
+dataframeBorderColor = "#243142"
+dataframeHeaderBackgroundColor = "#111D2A"
+
+[theme.sidebar]
+primaryColor = "#38BDF8"
+backgroundColor = "#0A111B"
+secondaryBackgroundColor = "#0D1622"
+textColor = "#D8E2EC"
+linkColor = "#38BDF8"
+codeBackgroundColor = "#09131E"
+baseRadius = "10px"
+buttonRadius = "10px"
+showWidgetBorder = true
+

@@ -1,0 +1,323 @@
+[
+  {
+    "model": "JSQ31-CLD",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith JSQ31-CLD 16L 燃气热水器",
+    "specifications": {
+      "热水器类型": "燃气热水器",
+      "额定电压": "220伏特",
+      "热水产率": "16升/分钟",
+      "能效等级": "二级能效",
+      "气源": "天然气(12T)",
+      "燃热类别": "水气双调",
+      "控制方式": "机械式",
+      "排气方式": "强排式",
+      "面板材质": "不锈钢",
+      "净重": "14千克",
+      "额定热负荷": "31千瓦"
+    },
+    "features": [
+      "支持恒温",
+      "支持CO防护",
+      "防冻型",
+      "不支持零冷水"
+    ],
+    "description": "A.O. Smith JSQ31-CLD 是一款 16L 天然气燃气热水器，采用强排式排气和水气双调控温。",
+    "sources": [
+      {
+        "title": "A.O.史密斯燃气热水器 JSQ31-CLD",
+        "url": "https://product.suning.com/0010357497/12382593482.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "JZT-V2B2S",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith JZT-V2B2S 嵌入式双眼燃气灶",
+    "specifications": {
+      "产品类型": "燃气灶",
+      "面板材质": "钢化玻璃",
+      "火型": "直燃火",
+      "净重": "13千克",
+      "安装方式": "嵌入式",
+      "能效等级": "一级能效",
+      "气源": "天然气(12T)",
+      "灶眼数": "双眼灶",
+      "进风方式": "全进风",
+      "点火方式": "双针点火",
+      "额定热流量": "4.5千瓦",
+      "外形尺寸": "760*450*150毫米"
+    },
+    "features": [
+      "嵌入式安装",
+      "双眼灶",
+      "一级能效",
+      "支持熄火保护"
+    ],
+    "description": "A.O. Smith JZT-V2B2S 是一款嵌入式双眼天然气灶，采用钢化玻璃面板和全进风设计。",
+    "sources": [
+      {
+        "title": "AO史密斯大火力燃气灶 JZT-V2B2S",
+        "url": "https://product.suning.com/0000000000/12441114276.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "R1700XF2",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith R1700XF2 反渗透净水机",
+    "specifications": {
+      "分类": "净饮一体机",
+      "安装方式": "厨下式",
+      "出水量": "1600加仑及以上",
+      "回收率/废水比": "1.5:1",
+      "额定净水量": "6300升",
+      "外形尺寸": "415*140*430毫米",
+      "净重": "12.5千克",
+      "是否需要电源": "是",
+      "滤芯报警装置": "支持",
+      "除水垢": "是"
+    },
+    "features": [
+      "厨下式安装",
+      "反渗透净水",
+      "支持滤芯报警",
+      "适用于厨房台下场景"
+    ],
+    "description": "A.O. Smith R1700XF2 是一款厨下式反渗透净水机，额定净水量为 6300L。",
+    "sources": [
+      {
+        "title": "史密斯 R1700XF2 型反渗透净水机",
+        "url": "https://www.suning.com/item/0000000000/12082796340.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "E60VDS",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith E60VDS 60L 储水式电热水器",
+    "specifications": {
+      "容积": "60升",
+      "适用人数": "1-2人",
+      "能效等级": "一级能效",
+      "加热功率": "2000瓦特",
+      "加热方式": "PTC陶瓷",
+      "内胆材质": "金圭",
+      "加热温度": "75摄氏度",
+      "额定电压": "220伏特",
+      "防水等级": "IPX4",
+      "净重": "25千克",
+      "产品尺寸": "884*424*424毫米"
+    },
+    "features": [
+      "储水式电热水器",
+      "支持预约",
+      "支持水温调节",
+      "金圭内胆"
+    ],
+    "description": "A.O. Smith E60VDS 是一款 60L 储水式电热水器，采用金圭内胆和 2000W 加热配置。",
+    "sources": [
+      {
+        "title": "AO史密斯60升电热水器 E60VDS",
+        "url": "https://m.suning.com/product/0000000000/10603612101.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "JSQ26-TM5",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith JSQ26-TM5 13L 燃气热水器",
+    "specifications": {
+      "容量": "13L",
+      "额定功率": "49W",
+      "点火方式": "电子脉冲点火",
+      "控制方式": "APP控制、触摸控制"
+    },
+    "features": [
+      "13L 燃气热水器",
+      "电子脉冲点火",
+      "支持APP控制",
+      "支持触摸控制"
+    ],
+    "description": "A.O. Smith JSQ26-TM5 是一款 13L 燃气热水器，支持 APP 与触摸控制。",
+    "sources": [
+      {
+        "title": "A.O.史密斯 JSQ26-TM5 燃气热水器",
+        "url": "https://detail.zol.com.cn/gas_waterheater/index1401507.shtml",
+        "source_type": "parameter_site",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "JSQ31-CSCX",
+    "brand": "A.O. Smith",
+    "product_name": "A.O. Smith JSQ31-CSCX 16L 燃气热水器",
+    "specifications": {
+      "容量": "16L",
+      "额定功率": "61W",
+      "额定热负荷": "31KW",
+      "热水产率": "16升/分",
+      "适用水压": "0.02-0.8Mpa",
+      "电源规格": "220V/50Hz",
+      "点火方式": "电子脉冲点火（双针点火）",
+      "控制方式": "触摸控制",
+      "使用燃气种类": "天然气",
+      "能效等级": "二级能效",
+      "外形尺寸": "575*370*172mm",
+      "产品重量": "16kg"
+    },
+    "features": [
+      "16L 燃气热水器",
+      "触摸控制",
+      "LED数码显示",
+      "电子脉冲双针点火"
+    ],
+    "description": "A.O. Smith JSQ31-CSCX 是一款 16L 天然气燃气热水器，支持触摸控制和 LED 数码显示。",
+    "sources": [
+      {
+        "title": "A.O.史密斯 JSQ31-CSCX 参数",
+        "url": "https://detail.zol.com.cn/1310/1309374/param.shtml",
+        "source_type": "parameter_site",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "JSQ31-TJ1",
+    "brand": "佳尼特(CHANITEX)",
+    "product_name": "佳尼特 JSQ31-TJ1 16L 零冷水燃气热水器",
+    "specifications": {
+      "热水器类型": "燃气热水器",
+      "额定电压": "220伏特",
+      "热水产率": "16升/分钟",
+      "能效等级": "二级能效",
+      "气源": "天然气(12T)",
+      "燃热类别": "零冷水",
+      "控制方式": "触控式",
+      "点火方式": "电子脉冲点火",
+      "排气方式": "强排式",
+      "净重": "15千克",
+      "额定热负荷": "30.5千瓦"
+    },
+    "features": [
+      "零冷水",
+      "支持恒温",
+      "防冻型",
+      "支持CO防护"
+    ],
+    "description": "佳尼特 JSQ31-TJ1 是一款 16L 天然气零冷水燃气热水器，支持恒温和防冻。",
+    "sources": [
+      {
+        "title": "AO史密斯佳尼特16升零冷水燃气热水器 JSQ31-TJ1",
+        "url": "https://m.suning.com/itemcanshu/0000000000/12381963777.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "CPF-T6",
+    "brand": "佳尼特(CHANITEX)",
+    "product_name": "佳尼特 CPF-T6 前置过滤器",
+    "specifications": {
+      "分类": "前置过滤器",
+      "安装方式": "厨下式",
+      "额定净水量": "6000升",
+      "外形尺寸": "160*96*273毫米",
+      "净重": "1.5千克",
+      "是否需要电源": "否",
+      "用途": "生活用水",
+      "应用场景": "厨房台下式、全屋净水"
+    },
+    "features": [
+      "前置过滤器",
+      "无需电源",
+      "适用于全屋净水前置过滤",
+      "支持生活用水过滤"
+    ],
+    "description": "佳尼特 CPF-T6 是一款前置过滤器，可用于厨房台下和全屋净水场景。",
+    "sources": [
+      {
+        "title": "AO史密斯佳尼特前置过滤器 CPF-T6",
+        "url": "https://www.suning.com/itemcanshu/0000000000/000000012429446209.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "CTE-60KB",
+    "brand": "佳尼特(CHANITEX)",
+    "product_name": "佳尼特 CTE-60KB 60L 储水式电热水器",
+    "specifications": {
+      "容积": "60升",
+      "适用人数": "3-4人",
+      "能效等级": "一级能效",
+      "加热功率": "3000瓦特",
+      "加热方式": "电热管加热",
+      "内胆材质": "金圭内胆",
+      "加热温度": "75摄氏度",
+      "额定电压": "220伏特",
+      "防水等级": "IPX4",
+      "净重": "25千克",
+      "产品尺寸": "695*463*463毫米"
+    },
+    "features": [
+      "储水式电热水器",
+      "多功率加热",
+      "金圭内胆",
+      "短款机身"
+    ],
+    "description": "佳尼特 CTE-60KB 是一款 60L 储水式电热水器，采用 3000W 加热和金圭内胆。",
+    "sources": [
+      {
+        "title": "佳尼特 CTE-60KB 60升电热水器",
+        "url": "https://product.suning.com/0000000000/12361024328.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  },
+  {
+    "model": "CTE-60TT-C",
+    "brand": "佳尼特(CHANITEX)",
+    "product_name": "佳尼特 CTE-60TT-C 60L 储水式电热水器",
+    "specifications": {
+      "容积": "60升",
+      "适用人数": "2-3人",
+      "能效等级": "一级能效",
+      "加热功率": "3000瓦特",
+      "加热方式": "电热管加热",
+      "内胆材质": "金圭内胆",
+      "加热温度": "75摄氏度",
+      "额定电压": "220伏特",
+      "防水等级": "IPX4",
+      "净重": "26千克",
+      "产品尺寸": "884*424*424毫米"
+    },
+    "features": [
+      "储水式电热水器",
+      "速热",
+      "金圭内胆",
+      "支持水温调节"
+    ],
+    "description": "佳尼特 CTE-60TT-C 是一款 60L 储水式电热水器，采用 3000W 加热和金圭内胆。",
+    "sources": [
+      {
+        "title": "佳尼特 CTE-60TT-C 60升电热水器",
+        "url": "https://www.suning.com/item/0000000000/12416881641.html",
+        "source_type": "retailer",
+        "retrieved_at": "2026-08-20"
+      }
+    ]
+  }
+]

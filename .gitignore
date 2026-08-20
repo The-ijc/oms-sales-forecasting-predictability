@@ -10,6 +10,8 @@
 *.xls
 *.parquet
 .env
+.env.*
+!.env.example
 
 # Python cache and local secrets
 __pycache__/
